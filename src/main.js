@@ -32,4 +32,5 @@ function animate(thisFrameTime) {
   requestAnimationFrame(animate);
 }
 
+
 requestAnimationFrame(animate);
